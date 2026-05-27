@@ -180,7 +180,7 @@ berdasarkan hasil OCR dari gambar struk.
 
 Dashboard dapat di-deploy menggunakan Streamlit Cloud:
 
-https://streamlit.io/cloud
+https://ocr-receipt-ab-testing-dashboard.streamlit.app/
 
 ---
 
